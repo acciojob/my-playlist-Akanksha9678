@@ -15,18 +15,27 @@ h2{
 	text-align:center;
 }
 .container{
-	height:100px;
+	height:120px;
 	width:80%;
 	border-radius:5px;
 	background:white;
+	margin:auto;
+	border:2px solid black;
+	padding:3px;
 }
 .container-a{
-	height:400px;
-	width:80%;
+	min-height:410px;
+	width:60%;
+	margin:auto;
 	background:white;
 	text-align:center;
+	border:2px solid black;
+	border-radius:5px;
 }
 video{
 	margin:5px;
-	border-radius:5px;
+	width:95%;
+}
+audio{
+	width:95%;
 }
