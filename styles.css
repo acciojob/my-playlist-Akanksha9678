@@ -34,8 +34,14 @@ h2{
 }
 .player_one{
 	margin:5px;
+	padding:5px;
+	border-radius:5px;
 	width:95%;
+	background:rgb(255, 255, 255);
 }
 .player_two{
 	width:95%;
+	padding:5px;
+	border-radius:5px;
+	background:rgb(255, 255, 255);
 }
