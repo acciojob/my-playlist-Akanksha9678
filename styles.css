@@ -18,7 +18,7 @@ h2{
 	height:120px;
 	width:80%;
 	border-radius:5px;
-	background:white;
+	background:rgb(255,255,255);
 	margin:auto;
 	border:2px solid black;
 	padding:3px;
@@ -27,15 +27,15 @@ h2{
 	min-height:410px;
 	width:60%;
 	margin:auto;
-	background:white;
+	background:rgb(255,255,255);
 	text-align:center;
 	border:2px solid black;
 	border-radius:5px;
 }
-video{
+.player_one{
 	margin:5px;
 	width:95%;
 }
-audio{
+.player_two{
 	width:95%;
 }
